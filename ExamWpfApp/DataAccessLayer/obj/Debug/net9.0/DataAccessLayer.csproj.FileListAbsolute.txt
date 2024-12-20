@@ -1,0 +1,14 @@
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Angel\OneDrive\Рабочий стол\16.12.24\Итоговая работа\ExamWpfApp\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll

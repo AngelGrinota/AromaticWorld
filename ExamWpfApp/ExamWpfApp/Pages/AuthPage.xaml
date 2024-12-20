@@ -1,0 +1,21 @@
+﻿<Page x:Class="ExamWpfApp.Pages.AuthPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ExamWpfApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="Окно авторизации">
+    <DockPanel Background="#FFF7F7E8">
+
+        <Image Source="Images/logo.png" Opacity="1" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <StackPanel Width="700" Height="370" VerticalAlignment="Center">
+            <TextBlock Text="Ароматный мир" FontSize="86" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+            <TextBox x:Name="LoginTextBox" Margin="0,0,0,10" Height="65" Text="loginDEsgg2018" FontSize="45" BorderThickness="1" BorderBrush="Black"/>
+            <PasswordBox x:Name="PasswordBox" Margin="0,0,0,20"  Height="65" Password="qhgYnW" FontSize="45" BorderThickness="1" BorderBrush="Black"/>
+            <Button Content="Авторизоваться" Height="65" Click="LoginButton_Click" FontSize="45"/>
+        </StackPanel>
+    </DockPanel>
+</Page>

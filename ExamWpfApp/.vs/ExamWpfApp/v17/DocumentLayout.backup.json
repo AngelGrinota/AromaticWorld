@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\16.12.24\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\ExamWpfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E25AA42-394C-42CF-8CE3-36C8406D65CB}|ExamWpfApp\\ExamWpfApp.csproj|c:\\users\\angel\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\16.12.24\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\examwpfapp\\examwpfapp\\pages\\storepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E25AA42-394C-42CF-8CE3-36C8406D65CB}|ExamWpfApp\\ExamWpfApp.csproj|solutionrelative:examwpfapp\\pages\\storepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E25AA42-394C-42CF-8CE3-36C8406D65CB}|ExamWpfApp\\ExamWpfApp.csproj|c:\\users\\angel\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\16.12.24\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\examwpfapp\\examwpfapp\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E25AA42-394C-42CF-8CE3-36C8406D65CB}|ExamWpfApp\\ExamWpfApp.csproj|solutionrelative:examwpfapp\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Angel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\16.12.24\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\ExamWpfApp\\ExamWpfApp\\Pages\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "ExamWpfApp\\Pages\\AuthPage.xaml",
+              "ToolTip": "C:\\Users\\Angel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\16.12.24\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\ExamWpfApp\\ExamWpfApp\\Pages\\AuthPage.xaml",
+              "RelativeToolTip": "ExamWpfApp\\Pages\\AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T18:50:07.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Angel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\16.12.24\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\ExamWpfApp\\ExamWpfApp\\Pages\\StorePage.xaml",
+              "RelativeDocumentMoniker": "ExamWpfApp\\Pages\\StorePage.xaml",
+              "ToolTip": "C:\\Users\\Angel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\16.12.24\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\ExamWpfApp\\ExamWpfApp\\Pages\\StorePage.xaml",
+              "RelativeToolTip": "ExamWpfApp\\Pages\\StorePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T00:02:51.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1343,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
